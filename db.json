@@ -1,0 +1,30 @@
+{
+  "movieList": [
+    
+  	{
+		"name": "Harry Potter and the Goblet of Fire",
+		"img": "HP.jpg"
+	},
+	   {
+		"name": "Iron Man",
+		"img": "IM.jpg"
+	},
+  	
+   	{
+		"name": "Avengers",
+		"img": "A.jpg"
+	},
+  	{
+		"name": "Guardians of the Galaxy",
+		"img": "GOTG.jpg"
+	},
+	   {
+		"name": "Star Wars",
+		"img": "SW.jpg"
+	},
+  	{
+		"name": "Wonder Woman",
+		"img": "WW.jpg"
+	}
+  ]
+}
